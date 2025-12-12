@@ -1,0 +1,14 @@
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.exe
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.deps.json
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.dll
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.pdb
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.dll
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\obj\Debug\net10.0\refint\ConsoleApp10.dll
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.pdb
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.genruntimeconfig.cache
+C:\Users\Lenovo\RiderProjects\ConsoleApp1\ConsoleApp10\obj\Debug\net10.0\ref\ConsoleApp10.dll
